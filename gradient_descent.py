@@ -38,7 +38,7 @@ f=Function('f')(x)
 
 cur_x = 1 # Start of algorithm
 gamma = 0.01 # step size multiplier
-precision = 0.001 #approach a derivative of 0
+precision = 0.0001 #approach a derivative of 0
 previous_step_size = cur_x
 
 
